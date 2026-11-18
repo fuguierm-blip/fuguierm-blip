@@ -1,16 +1,15 @@
-## Hi there 👋
+# Zhenrui Mao
 
-<!--
-**fuguierm-blip/fuguierm-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Undergraduate Student** · Heilongjiang University
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Education
+
+**Heilongjiang University**  
+School of Foreign Languages and Literature (School of Region and Country Studies)  
+Undergraduate Student
+
+### Contact
+
+**Email:** [20243132@s.hlju.edu.cn](mailto:20243132@s.hlju.edu.cn)
